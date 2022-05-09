@@ -1,4 +1,0 @@
-vhdl xil_defaultlib  \
-"../../../bd/MY_SSD/ip/MY_SSD_rst_ps7_0_50M_0/sim/MY_SSD_rst_ps7_0_50M_0.vhd" \
-
-nosort
